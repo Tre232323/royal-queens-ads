@@ -1,2 +1,2 @@
 # royal-queens-ads
-Hosting for app-ads.txt file.
+google.com, pub-5805757737293445, DIRECT, f08c47fec0942fa0
